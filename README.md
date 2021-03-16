@@ -1,7 +1,7 @@
 # Password Magic!
 
 ## Description
-Having trouble making unique passwords? This secure password generator powered by Javascript is here to save the day!
+Having trouble making unique passwords? This secure password generator powered by HTML, CSS and Javascript is here to save the day!
 
 ## Link to view
 
