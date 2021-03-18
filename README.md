@@ -7,7 +7,7 @@ Having trouble making unique passwords? This secure password generator powered b
 
 Follow this link to check out my work!   
 
-https://imdanell.github.io/Password-Week3/
+https://imdanell.github.io/PasswordGenerator/
 
 
 
